@@ -18,3 +18,6 @@ Deep learning in biology · Large language models (LLMs) · Generative models
 
 - Website: [Ankit Yadav](https://ankitportfolio-ankit-93bd.vercel.app/profile)
 - LinkedIn: [Ankit Yadav](https://www.linkedin.com/in/ankit-yadav-084b87326/)
+- LeetCode: [ankityx](https://leetcode.com/u/ankityx/)
+- Codeforces: [technicaljaggu2005](https://codeforces.com/profile/technicaljaggu2005)
+- Email: [raoankit72005@gmail.com](mailto:raoankit72005@gmail.com)
